@@ -1,3 +1,4 @@
+X the file 'unionrandom.py' is the one you need to run. before that make sure to read the below instructions.
 X it is python, so make sure you have python installed
 X some packages are needed before running the program
     "  pip install pyautogui keyboard opencv-python pillow  "
